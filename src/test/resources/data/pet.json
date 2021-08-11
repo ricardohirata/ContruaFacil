@@ -1,0 +1,22 @@
+{
+  "id": 1000,
+  "category": {
+    "id": 1,
+    "name": "CACHORRO"
+  },
+  "name": "SNOOPY",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 4,
+      "name": "Animal vermifugado na primeira semana."
+    },
+    {
+      "id": 8,
+      "name": "Animal vermifugado na segunda semana."
+    }
+  ],
+  "status": "available"
+}
