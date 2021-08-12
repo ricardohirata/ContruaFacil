@@ -10,7 +10,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.is;
 
 
-public class UserTest {
+public class UserTests {
     String uri = "https://petstore.swagger.io/v2/user";
     int userID = 1000;
     String caminhoArqJson = "src/test/resources/data";
